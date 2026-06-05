@@ -1,0 +1,16 @@
+EmployeeID,Department,Gender,Salary,Experience,Attrition,Promotion
+101,IT,Male,45000,2,Yes,No
+102,HR,Female,40000,3,No,Yes
+103,Sales,Male,50000,4,No,No
+104,IT,Female,55000,5,Yes,No
+105,Finance,Male,60000,6,No,Yes
+106,HR,Female,42000,2,No,No
+107,Sales,Male,52000,3,Yes,No
+108,IT,Female,58000,7,No,Yes
+109,Finance,Female,62000,8,No,No
+110,Sales,Male,54000,5,Yes,No
+111,HR,Male,43000,4,No,No
+112,IT,Female,57000,6,No,Yes
+113,Finance,Male,61000,7,Yes,No
+114,Sales,Female,53000,3,No,No
+115,IT,Male,56000,5,No,Yes
